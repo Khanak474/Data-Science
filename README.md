@@ -7,7 +7,7 @@ Analysis of how trader behavior and performance on Hyperliquid relate to Bitcoin
 - **Hyperliquid Historical Data** — trade-level data (account, coin, price, size, side, closed PnL, etc.)
 
 ## How to Run
-Open `trader_sentiment_analysis.ipynb` in Google Colab → Runtime → Run all.
+Open `khanak.ipynb` in Google Colab → Runtime → Run all.
 The first cell auto-downloads both CSVs from Google Drive — no manual upload needed.
 
 ## What's Inside
